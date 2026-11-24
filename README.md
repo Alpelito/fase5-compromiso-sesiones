@@ -1,8 +1,10 @@
 # Fase 5 – Evaluación Final POA · Problema 1
 
 **Universidad Nacional Abierta y a Distancia – UNAD**
-Curso: Fundamentos de Programación (213022) · Grupo 213022_993
-Estudiante: José Alfonso Peñaranda Lozano
+
+- **Curso:** Fundamentos de Programación (213022)
+- **Grupo:** 213022_993
+- **Estudiante:** José Alfonso Peñaranda Lozano
 
 ## Descripción del problema
 
